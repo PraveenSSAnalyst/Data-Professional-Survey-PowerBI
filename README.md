@@ -1,5 +1,5 @@
 # Data-Professional-Survey
-I recently created a Power BI dashboard based on a Data Professional Survey, focusing on fundamental best practices to ensure clarity and efficiency. 
+Power BI dashboard based on a Data Professional Survey, focusing on fundamental best practices to ensure clarity and efficiency. 
 
 Here’s what I prioritized:
 
