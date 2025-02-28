@@ -5,6 +5,6 @@ Here’s what I prioritized:
 
 ✅ Data Cleaning – Prepared and transformed raw survey data to ensure accuracy and consistency.
 
-✅ Prompt & Clear Headers – Ensured every visual had concise and meaningful labels for easy interpretation.
-
 ✅ Dashboard Development: Focused on key insights ( KPI ) while keeping the design simple and effective.
+
+✅ Prompt & Clear Headers – Ensured every visual had concise and meaningful labels for easy interpretation.
